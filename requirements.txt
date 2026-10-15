@@ -1,0 +1,5 @@
+opencv-python>=4.9.0
+ultralytics>=8.2.0
+numpy>=1.24.0,<3.0.0
+# Optional features (already in .venv):
+# mediapipe>=0.10.0
