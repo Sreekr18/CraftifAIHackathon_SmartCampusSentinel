@@ -38,7 +38,13 @@ Campus laboratories, research workshops, cleanrooms, and high-voltage areas requ
    The Sentinel Solution:
 **Smart Campus Safety Sentinel** processes all perception entirely at the local edge (laptop or embedded PC). When an individual steps inside a restricted zone, the system generates immediate, sub-second telemetry (`zone_entry`) and drives a physical alert beacon, but **never writes video or photos to disk**.
 
- 
+--Screenshots for the project demo:
+
+ <img width="425" height="307" alt="Screenshot 2026-10-15 234221" src="https://github.com/user-attachments/assets/ba856618-e71f-4207-b926-46fb7d8a1485" />
+<img width="417" height="315" alt="Screenshot 2026-10-15 234231" src="https://github.com/user-attachments/assets/df527bb4-c751-4a2f-a877-e97ce59f6ea2" />
+<img width="450" height="314" alt="Screenshot 2026-10-15 234243" src="https://github.com/user-attachments/assets/7f6b6c6e-45eb-4332-b192-93f306be92ca" />
+<img width="427" height="316" alt="Screenshot 2026-10-15 234253" src="https://github.com/user-attachments/assets/f859a29f-8212-4376-be14-ccbbf1bbad6f" />
+
 
   ⚡ Key Features
 
@@ -53,6 +59,8 @@ Campus laboratories, research workshops, cleanrooms, and high-voltage areas requ
 - **🧪 100% Offline Test Suite:** 17 comprehensive unit tests verifying zone math, coordinate sanitization, motion vectors, and serial framing in under 20ms.
 
  
+
+
 
   🏗️ System Architecture
 
